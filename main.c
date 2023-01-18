@@ -6,7 +6,6 @@
 #include "parallelGeneralFunctions.h"
 #include "submatrixSearch.h"
 
-// Ron Lulwi 205857394
 
 /*
 
