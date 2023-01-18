@@ -1,0 +1,3 @@
+Picture 1 No Objects were found
+Picture 0 found Object 1 in Position (100,200)
+Picture 2 found Object 4 in Position (100,900)
